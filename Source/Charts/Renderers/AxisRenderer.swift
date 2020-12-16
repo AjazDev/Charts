@@ -11,7 +11,7 @@
 
 import Foundation
 import CoreGraphics
-
+import UIKit
 
 public protocol AxisRenderer: Renderer {
 
