@@ -12,7 +12,6 @@
 import Foundation
 import CoreGraphics
 
-
 public protocol AxisRenderer: Renderer {
 
     associatedtype Axis: AxisBase
